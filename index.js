@@ -25,19 +25,16 @@ inquirer
       type: 'input',
       message: 'Usage Information',
       name: 'usage',
-    //   choices: ['email', 'phone', 'telekinesis'],
     },
     {
         type: 'input',
         message: 'Contribution Guidelines ',
         name: 'contribution',
-      //   choices: ['MIT, 'Community', 'Private'],
       },
       {
         type: 'input',
         message: 'Test',
         name: 'test',
-      //   choices: ['MIT, 'Community', 'Private'],
       },
       {
         type: 'input',
