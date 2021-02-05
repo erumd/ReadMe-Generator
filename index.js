@@ -40,7 +40,10 @@ inquirer
         type: 'input',
         message: 'License',
         name: 'license',
-        choices: ['Community', 'MIT', 'GNU GPLv3'],
+        choices: [ 
+          'MIT (Short and to the point. It lets people do almost anything they want with your project.) ', 
+        'GNU GPLv3 (Lets people do almost anything they want with your project, except distributing closed source versions.'
+        ],
       },
   ])
   .then((data) => {

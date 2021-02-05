@@ -1,1 +1,1 @@
-{"title":"q","description":"q","installation":"q","usage":"q","contribution":"q","test":"q","license":"q"}
+{"title":"o","description":"o","installation":"o","usage":"o","contribution":"o","test":"o","license":"o"}
