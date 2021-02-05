@@ -47,6 +47,7 @@ inquirer
       },
   ])
   .then((data) => {
+    const answers= 
       
       //dont need const bc using data. using data variable to pass it to the right file
       console.log (typeof data);
@@ -79,7 +80,7 @@ inquirer
     `
       
 
-      fs.writeFile('README.md',JSON.stringify(data), (err) => (err) ? console.error(err) : console.log('file created!'));
+      fs.writeFile('README.md', (JSON.stringify(data)), (err) => (err) ? console.error(err) : console.log('file created!'));
 
 
     
