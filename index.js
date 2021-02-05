@@ -1,8 +1,12 @@
 //store inquier package in the inquirer 
+// TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 //import fs(file system)
 const fs = require('fs');
 
+
+// TODO: Create an array of questions for user input
+const questions = [];
 inquirer
   .prompt([
     {
@@ -79,10 +83,14 @@ inquirer
     ${data.license}
     `
       
-
+// TODO: Create a function to write README file
       fs.writeFile('README.md', (JSON.stringify(data)), (err) => (err) ? console.error(err) : console.log('file created!'));
 
+// TODO: Create a function to initialize app
+function init() {}
 
+// Function call to initialize app
+init();
     
 // TUTOR
     // const title; 
