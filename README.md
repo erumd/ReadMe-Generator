@@ -1,7 +1,7 @@
-# p
-![Github license](https://img.shields.io/badge/license-Community-blue.svg)
+# g
+![Github license](https://img.shields.io/badge/license-None-blue.svg)
 ## Description
-p
+g
 
 ## Table of Contents
 - [Installation](#Installation)
@@ -13,17 +13,17 @@ p
 - [License](#License)
 
 ## Installation
-p
+g
 
 ## Usage 
-p
+g
 
 ## Contribute
-p
+g
 
 ## Tests
-p
+g
 
 ## License
-Community
+None
 
