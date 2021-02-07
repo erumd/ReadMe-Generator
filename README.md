@@ -1,4 +1,4 @@
-# read-me generator
+# Read-Me Generator (How to Use)
 
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -16,9 +16,7 @@ You can quickly and easily create a this project file by using a command-line ap
 - [Usage](#usage)
 - [Contribute](#contribution)
 - [Tests](#tests)
-
-* [Questions](#questions)
-
+- [Questions](#questions)
 - [License](#license)
 
 ## Installation
@@ -30,15 +28,7 @@ Open READMEGenerator to view your file.
 
 ## Usage
 
-Use this link to watch a video on how to use this app to automatically generate a README.md file. [https://video.drift.com/v/abb5o829M3l/] (https://video.drift.com/v/abb5o829M3l/).
-
-## Contribute
-
-any
-
-## Tests
-
-non
+Use this link to watch a video on how to use this app to automatically generate a README.md file. [https://video.drift.com/v/abb5o829M3l/].
 
 ## Questions
 
