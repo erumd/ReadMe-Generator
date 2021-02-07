@@ -21,6 +21,10 @@ You can quickly and easily create a this project file by using a command-line ap
 
 ## Installation
 
+https://github.com/erumd/ReadMe-Generator
+
+https://erumd.github.io/ReadMe-Generator/#License
+
 Fork this repo and open it on your computer.
 In terminal open up the command line in the correct file location.
 When prompted enter your response.
