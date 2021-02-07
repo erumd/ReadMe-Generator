@@ -59,13 +59,6 @@ inquirer
   .then((data) => {
     // const answers =
     //dont need const bc using data. using data variable to pass it to the right file
-    console.log(data.title);
-    console.log(data.description);
-    console.log(data.installation);
-    console.log(data.usage);
-    console.log(data.contribution);
-    console.log(data.GitHub);
-    console.log(data.email);
 
     //bc have object and want string
     //   JSON.stringify(data);
