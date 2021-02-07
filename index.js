@@ -40,6 +40,16 @@ inquirer
       name: "test",
     },
     {
+      type: "input",
+      message: "What is your GitHub username?",
+      name: "GitHub",
+    },
+    {
+      type: "input",
+      message: "What is your email?",
+      name: "email",
+    },
+    {
       type: "list",
       message: "License",
       name: "license",
@@ -54,6 +64,8 @@ inquirer
     console.log(data.installation);
     console.log(data.usage);
     console.log(data.contribution);
+    console.log(data.GitHub);
+    console.log(data.email);
 
     //bc have object ant want string
     //   JSON.stringify(data);
@@ -75,6 +87,11 @@ inquirer
 
     // ## Test
     // ${data.test}
+
+    //#Questions
+    // ${data.questions}
+    // ${data.GitHub}
+    //${data.email}
 
     // ## License
     // ${data.license}

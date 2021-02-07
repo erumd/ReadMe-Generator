@@ -6,15 +6,11 @@ const readmeTemplate = (license, data, badge, link) => `
 ${data.description}
 
 ## Table of Contents
-- [Installation](#installation)
 * [Installation](#installation)
-- [Usage Information](#usage)
 * [Usage](#usage)
-- [Issues](#Issues)
-- [Contribute](#Contribute)
-- [Tests](#Tests)
-- [Questions](#Questions)
-- [License](#License)
+* [Contribute](#contribution)
+* [Tests](#tests)
+- [Questions](#questions)
 * [License](#license)
 
 
@@ -33,6 +29,11 @@ ${data.contribution}
 
 ## Tests
 ${data.test}
+
+## Questions
+${data.questions}
+${data.GitHub}
+${data.email}
 
 ## License
 ${license}
