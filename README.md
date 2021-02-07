@@ -14,8 +14,6 @@ You can quickly and easily create a this project file by using a command-line ap
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contribute](#contribution)
-- [Tests](#tests)
 - [Questions](#questions)
 - [License](#license)
 
@@ -32,7 +30,7 @@ Open READMEGenerator to view your file.
 
 ## Usage
 
-Use this link to watch a video on how to use this app to automatically generate a README.md file. [https://video.drift.com/v/abb5o829M3l/].
+Use this link to watch a video on how to use this app to automatically generate a READMEGenerator.md file. [https://video.drift.com/v/abb5o829M3l/].
 
 ## Questions
 
