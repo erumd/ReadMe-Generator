@@ -15,8 +15,6 @@ ${data.description}
 
 
 
-* [Credits](#credits)
-
 
 ## Installation
 ${data.installation}
@@ -32,8 +30,10 @@ ${data.test}
 
 ## Questions
 ${data.questions}
+(https://img.shields.io/badge/license-${badge}-${data.color})](${link})
+(https://https://github.com/${data.GitHub})
 ${data.GitHub}
-${data.email}
+If you have any questions or would like to contribute email me at ${data.email} 
 
 ## License
 ${license}

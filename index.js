@@ -67,38 +67,11 @@ inquirer
     console.log(data.GitHub);
     console.log(data.email);
 
-    //bc have object ant want string
+    //bc have object and want string
     //   JSON.stringify(data);
 
-    // `# Your Project Title
-    // ${data.title}
-
-    // ## Description
-    // ${data.description}
-
-    // ## Installation
-    // ${data.installation}
-
-    // ## Usage
-    // ${data.usage}
-
-    // ## Contribution
-    // ${data.contribution}
-
-    // ## Test
-    // ${data.test}
-
-    //#Questions
-    // ${data.questions}
-    // ${data.GitHub}
-    //${data.email}
-
-    // ## License
-    // ${data.license}
-    // `;
-
     // TODO: Create a function to write README file
-    fs.writeFile("README.md", generateMarkdown(data), (err) =>
+    fs.writeFile("READMEGenerator.md", generateMarkdown(data), (err) =>
       err ? console.error(err) : console.log("file created!")
     );
 

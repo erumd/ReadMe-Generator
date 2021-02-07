@@ -1,37 +1,34 @@
-# g
-
-![Github license](https://img.shields.io/badge/license-None-blue.svg)
-
+# read-me generator
+![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
-
-g
+how to breate a readme genrator
 
 ## Table of Contents
-
-- [Installation](#Installation)
-- [Usage Information](#Usage-Information)
-- [Issues](#Issues)
-- [Contribute](#Contribute)
-- [Tests](#Tests)
-- [Questions](#Questions)
-- [License](#License)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contribute](#contribution)
+* [Tests](#tests)
+- [Questions](#questions)
+* [License](#license)
 
 ## Installation
+fork the repo, open it, and open terminal, go to index.js file and type node index.js
 
-g
-
-## Usage
-
-g
+## Usage 
+same as installation
 
 ## Contribute
-
-g
+any
 
 ## Tests
+non
 
-g
+## Questions
+undefined
+(https://github.com/erumd)
+erumd
+If you have any questions or would like to contribute email me at erumdhukka531@gmail.com 
 
 ## License
+MIT
 
-None
