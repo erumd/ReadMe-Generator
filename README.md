@@ -30,7 +30,7 @@ Open READMEGenerator to view your file.
 
 ## Usage
 
-Use this link to watch a video on how to use this app to automatically generate a READMEGenerator.md file. [https://video.drift.com/v/abb5o829M3l/].
+Use this link to watch a video on how to use this app to automatically generate a READMEGenerator.md file. [https://video.drift.com/share/abmNKApJ03l/].
 
 ## Questions
 

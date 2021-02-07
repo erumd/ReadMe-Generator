@@ -1,7 +1,7 @@
 # read me generator
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
-test
+description
 
 ## Table of Contents
 * [Installation](#installation)
@@ -12,16 +12,16 @@ test
 * [License](#license)
 
 ## Installation
-test
+describe
 
 ## Usage 
-test
+describe
 
 ## Contribute
-test
+list
 
 ## Tests
-test
+descibe
 
 ## Questions
 For questions checkout my GitHub account (https://github.com/erumd) or email me at erumdhukka531@gmail.com 
