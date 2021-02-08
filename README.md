@@ -27,9 +27,7 @@ Fork this repo and open it on your computer.
 
 In terminal open up the command line in the correct file location.
 
-This application will be invoked by using the following command:
-bash
-node index.js
+This application will be invoked by using the following command:bash & node index.js
 
 When prompted enter your response.
 
