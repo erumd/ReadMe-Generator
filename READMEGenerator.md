@@ -1,4 +1,4 @@
-# y
+# Example
 ## License
   ![Github license](https://img.shields.io/badge/license-MIT-yellow.svg)
 
@@ -20,7 +20,7 @@
     SOFTWARE. 
 
 ## Description
-y
+describe
 
 ## Table of Contents
 * [Installation](#installation)
@@ -31,17 +31,17 @@ y
 
 
 ## Installation
-y
+describe
 
 ## Usage 
-y
+describe
 
 ## Contribute
-y
+describe
 
 ## Tests
-y
+describe
 
 ## Questions
-For questions checkout my GitHub account (https://github.com/y) or email me at y 
+For questions checkout my GitHub account (https://github.com/erumd) or email me at erumdhukka531@gmail.com 
 

@@ -37,6 +37,8 @@ Open READMEGenerator to view your file.
 
 Use this link to watch a video on how to use this app to automatically generate a READMEGenerator.md file. [https://video.drift.com/share/abmNKApJ03l/].
 
+![Screenshot](./ScreenShot.png)
+
 ## Questions
 
 If you have any questions or would like to contribute you can view my GitHub account:
