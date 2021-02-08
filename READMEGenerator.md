@@ -1,6 +1,6 @@
-# r
+# y
 ## License
-  ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![Github license](https://img.shields.io/badge/license-MIT-yellow.svg)
 
     MIT License, Copyright (C) 2021
     Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -20,7 +20,7 @@
     SOFTWARE. 
 
 ## Description
-r
+y
 
 ## Table of Contents
 * [Installation](#installation)
@@ -31,17 +31,17 @@ r
 
 
 ## Installation
-r
+y
 
 ## Usage 
-r
+y
 
 ## Contribute
-r
+y
 
 ## Tests
-r
+y
 
 ## Questions
-For questions checkout my GitHub account (https://github.com/r) or email me at r 
+For questions checkout my GitHub account (https://github.com/y) or email me at y 
 
