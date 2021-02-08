@@ -63,7 +63,7 @@ inquirer
     //bc have object and want string
     //   JSON.stringify(data);
 
-    // TODO: Create a function to write README file
+    // Created a function to write README file
     fs.writeFile("READMEGenerator.md", generateMarkdown(data), (err) =>
       err ? console.error(err) : console.log("file created!")
     );
