@@ -53,7 +53,7 @@ inquirer
       type: "list",
       message: "License",
       name: "license",
-      choices: ["Community", "MIT", "None"],
+      choices: ["MIT", "None"],
     },
   ])
   .then((data) => {
