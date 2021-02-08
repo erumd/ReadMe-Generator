@@ -10,7 +10,7 @@ function renderLicenseBadge(license) {
 function renderLicenseLink(license) {
   if (license === "MIT") {
     return `
-    MIT, Copyright (C) 2021
+    MIT License, Copyright (C) 2021
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
     in the Software without restriction, including without limitation the rights
@@ -30,10 +30,9 @@ function renderLicenseLink(license) {
   if (license === "None") {
     return "Choose a license: [https://choosealicense.com/]";
   }
-
 }
 
-//BOTTOM FUNCTION WAS NOT WORKING, WOULD GIVE ME UNDEFINED SO I JUSTED COMBINED IT ABOVE 
+//BOTTOM FUNCTION WAS NOT WORKING, WOULD GIVE ME UNDEFINED SO I JUSTED COMBINED IT ABOVE
 // Create a function that returns the license section of README
 // If there is no license, return an empty string
 // function renderLicenseSection(license) {
